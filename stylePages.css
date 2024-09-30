@@ -53,7 +53,7 @@ h1{
 
 *,*::before, *::after{
 	box-sizing: border-box;
-	outline: 1px solid black;
+	/*outline: 1px solid black;*/
 }
 /*全頁寬度置中，與字的粗度設定*/
 .wrap{
